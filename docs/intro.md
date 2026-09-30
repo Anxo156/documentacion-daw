@@ -49,7 +49,7 @@ En los siglos II y III la Iglesia se organiza en torno a obispos, presbíteros y
 | 313 / 325 | Edicto de Milán / Concilio de Nicea | Eusebio de Cesarea |
 
 :::note Nota sobre las fechas
-Muchas fechas de la Iglesia Primitiva son aproximadas y debatidas por los historiadores. Por eso el sistema guarda, junto a cada fecha, un **nivel de certeza** (exacta, aproximada o tradicional).
+Muchas fechas de la Iglesia Primitiva son aproximadas y debatidas por los historiadores. Por eso el sistema guarda, junto a cada fecha, un **nivel de certeza** (exacta, aproximada y/o tradicional).
 :::
 
 ## Fuentes que utiliza el proyecto
